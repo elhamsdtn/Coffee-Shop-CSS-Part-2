@@ -75,7 +75,7 @@ h3{
     color: white;
     background-color: #5bacc3;
     border-width: 0.13rem;
-    offset: 0.31rem;
+    outline-offset: 0.31rem;
 }
 
 .product-card-one {
