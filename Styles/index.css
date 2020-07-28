@@ -6,6 +6,24 @@
     font-size: 2.81rem;
 }
 
-.product-price {
-    color: #5bacc3;
+.product-container {
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-evenly;
+}
+
+.product-card {
+    width: 27.19rem;
+    height: 27.69rem;
+    border-radius: 0.625rem;
+    box-shadow: 0 0.31rem 0.5625rem -0.0625rem rgba(0, 0, 0, 0.25);
+}
+
+.hero-image{
+    display: flex;
+    justify-content: space-around;
+}
+
+.hero-description {
+    width: 25%;
 }

@@ -94,16 +94,6 @@ h3{
     background-color: #fff0ed;
     width: 100%;
 }
-/*
-a {
-    display: inline-flex;
-    align-items: center;
-    align-content: space-between;
-}
-
-.nav-align{
-    align-items: center;
-} */
 
 .active{
     color: #5bacc3;
@@ -111,4 +101,14 @@ a {
 
 .divider{
     color: #5bacc3;
+}
+
+.product-heading {
+    text-align: center;
+}
+
+.product-price {
+    color: #5bacc3;
+    text-align: center;
+    margin: 0;
 }

@@ -55,16 +55,6 @@
     margin: 0;
 }
 
-.product-heading {
-    text-align: center;
-}
-
-.product-price {
-    color: #5bacc3;
-    text-align: center;
-    margin: 0;
-}
-
 .product-description {
     width: 40%;
     display: flex;
