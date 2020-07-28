@@ -5,7 +5,7 @@
     height: 11.56rem;
     border: 0.25rem;
     offset: 0.94rem;
-    text-align: center;
+    margin: 0;
 }
 
 .title-bg{
@@ -15,6 +15,10 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    text-align: center;
 }
 
 .menu-nav {
