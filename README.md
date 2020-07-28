@@ -18,3 +18,5 @@ Using the style guide provided, create the proper HTML and CSS for the version 1
 
 Remember to create reusable CSS and use the BEM methodology
 
+## <img src="./assets/index_day_5_mockup.png" />
+
