@@ -1,9 +1,16 @@
+.discount {
+    display: flex;
+    justify-content: center;
+}
 .discount-banner{
     width: 71.06rem;
-    height: 3.75rem;
+    height: 11.88rem;
     background-color: rgba(0, 0, 0, 0.85);
     color: white;
     font-size: 2.81rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .product-container {
