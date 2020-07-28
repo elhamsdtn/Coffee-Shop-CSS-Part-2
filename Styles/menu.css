@@ -62,4 +62,9 @@
 
 .product-description {
     width: 40%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 28rem;
+    font-style: italic;
 }
