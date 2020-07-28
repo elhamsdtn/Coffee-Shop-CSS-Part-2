@@ -1,0 +1,57 @@
+.title-box{
+    background-color: rgba(0,0,0, 0.95);
+    color: white;
+    width: 17.81rem;
+    height: 11.56rem;
+    border: 0.25rem;
+    offset: 0.94rem;
+    text-align: center;
+}
+
+.title-bg{
+    background-image: url(../assets/coffee-circle.jpg);
+    width: 90rem;
+    height: 35.94rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.menu-nav {
+    text-align: center;
+    width: 100%;
+    height: 4.63rem;
+    background-color: #393939;
+}
+
+.menu-link {
+    color: white;
+}
+
+#hotdrinks {
+    color: #464646;
+    text-align: center;
+}
+
+#colddrinks {
+    color: #464646;
+    text-align: center;
+}
+
+#pastries {
+    color: #464646;
+    text-align: center;
+}
+
+.product-heading {
+    text-align: center;
+}
+
+.product-price {
+    color: #5bacc3;
+    text-align: center;
+}
+
+.product-description {
+    width: 40%;
+}

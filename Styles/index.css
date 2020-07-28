@@ -1,0 +1,11 @@
+.discount-banner{
+    width: 71.06rem;
+    height: 3.75rem;
+    background-color: rgba(0, 0, 0, 0.85);
+    color: white;
+    font-size: 2.81rem;
+}
+
+.product-price {
+    color: #5bacc3;
+}
