@@ -26,6 +26,7 @@ h3{
     font-family: Helvetica, Arial, sans-serif;
     font-size: 3.125rem;
     font-weight: 100;
+    margin-left: 1rem;
 }
 
 .nav-link{
@@ -33,6 +34,10 @@ h3{
     font-size: 1.31rem;
     list-style-type: none;
     text-decoration: none;
+    /* margin-right: 3.13rem; */
+    align-items: center;
+    display: inline-flex;
+    margin-right: 3.13rem;
 }
 
 .button{
@@ -75,4 +80,23 @@ h3{
 
 .product-card-two {
     background-color: #f7f7f7;
+}
+
+ .nav-container {
+    display: inline-flex;
+    align-items: center;
+}
+/*
+a {
+    display: inline-flex;
+    align-items: center;
+    align-content: space-between;
+}
+
+.nav-align{
+    align-items: center;
+} */
+
+.active{
+    color: #5bacc3;
 }
