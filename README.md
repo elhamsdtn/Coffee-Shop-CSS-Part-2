@@ -10,5 +10,11 @@ Using the Box Model and display property, update the Nitro Coffee menu to match 
 
 ##  <img src="./assets/menu_day_4_mockup.jpg" />
 
+# 4. Coffee Shop: Card Component
 
+Looking at the landing page for our Coffee Shop, can you identify some components throughout the site?
+
+Using the style guide provided, create the proper HTML and CSS for the version 1 card component.
+
+Remember to create reusable CSS and use the BEM methodology
 
